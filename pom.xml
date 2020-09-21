@@ -7,9 +7,9 @@
     <artifactId>ad-mooc</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-<!--        <module>imooc-ad-service</module>-->
         <module>ad-eureka</module>
         <module>ad-gateway</module>
+        <module>imooc-ad-service</module>
     </modules>
 
     <packaging>pom</packaging>

@@ -9,6 +9,9 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/ad-common/pom.xml" />
+        <option value="$PROJECT_DIR$/ad-common1/pom.xml" />
+        <option value="$PROJECT_DIR$/ad-common2/pom.xml" />
         <option value="$PROJECT_DIR$/ad-eruka/pom.xml" />
       </set>
     </option>
